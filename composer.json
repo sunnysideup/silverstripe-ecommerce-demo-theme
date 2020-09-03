@@ -24,6 +24,9 @@
             "role": "lead developer"
         }
     ],
+    "require": {
+      "sunnysideup/ecommerce_test": "dev-master"  
+    },
     "extra": {
         "expose": [
           "dist"
