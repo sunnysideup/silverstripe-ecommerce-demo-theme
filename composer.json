@@ -1,7 +1,7 @@
 {
     "name": "sunnysideup/ecommerce-demo-theme",
     "type": "silverstripe-theme",
-    "description": "Sunny Side Up Theme",
+    "description": "Sunny Side Up Theme for the Silverstripe E-commerce Demo Shop",
     "keywords": [
         "Silverstripe-CMS",
         "CMS",
