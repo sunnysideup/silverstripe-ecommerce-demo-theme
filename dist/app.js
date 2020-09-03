@@ -149,7 +149,7 @@
 /******/ 	// webpack-livereload-plugin
 /******/ 	(function() {
 /******/ 	  if (typeof window === "undefined") { return };
-/******/ 	  var id = "webpack-livereload-plugin-script-d29467321e1305b9";
+/******/ 	  var id = "webpack-livereload-plugin-script-d741429a0bebbff6";
 /******/ 	  if (document.getElementById(id)) { return; }
 /******/ 	  var el = document.createElement("script");
 /******/ 	  el.id = id;
@@ -172,7 +172,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("// import $ from 'jquery';\n//\n//\n// // non-themed app\n// import 'PROJECT_ROOT/app/client/javascript/MyJavascriptFile';\n//\n//\n// // vendor modules\n// import 'PROJECT_ROOT/vendor/myvendor/mypackage/client/javascript/MyJavascriptFile';\n//\n// // your themed app files\n// import \"./js/partials/SomeOtherJavascriptFile\";\n\n//# sourceURL=webpack:///../ecommerce-demo-theme/src/main.js?");
+eval("// import $ from 'jquery';\n//\n//\n// // non-themed app\n// import 'PROJECT_ROOT/app/client/javascript/MyJavascriptFile';\n//\n//\n// // vendor modules\n// import 'PROJECT_ROOT/vendor/myvendor/mypackage/client/javascript/MyJavascriptFile';\n//\n// // your themed app files\n// import \"./js/partials/SomeOtherJavascriptFile\";\n\nconsole.log('hello');\n\n//# sourceURL=webpack:///../ecommerce-demo-theme/src/main.js?");
 
 /***/ }),
 

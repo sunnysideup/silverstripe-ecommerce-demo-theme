@@ -10,3 +10,5 @@
 //
 // // your themed app files
 // import "./js/partials/SomeOtherJavascriptFile";
+
+console.log('hello')
